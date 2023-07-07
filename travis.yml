@@ -1,0 +1,7 @@
+arch: ppc64le
+os: linux
+
+script:
+  - echo "travis CI"
+  - arch
+  
