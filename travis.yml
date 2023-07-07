@@ -2,6 +2,6 @@ arch: ppc64le
 os: linux
 
 script:
-  - echo "travis CI"
+  - echo "travis CI demo"
   - arch
   
